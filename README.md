@@ -9,7 +9,7 @@ HTML, CSS, Javascript and Jquery
 
 <h2> <b>Frame Work and Design: </b></h2>
 
-Bootstrap 3 (Material Design) 
+Bootstrap Framework Version 3 and (Bootstrap Material Design) 
 
 
 
